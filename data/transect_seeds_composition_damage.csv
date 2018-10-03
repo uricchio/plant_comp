@@ -1,0 +1,530 @@
+"Species","Plant.ID","Seed.estimate","Notes","plot","EG.adult","SP.adult","BH","BD","Avena","Forb","Fabaceae","BRADIS","FEMY","POA","treat","Plot","trans","ind","rust","prop.dam.mini","mean.dam.mini","prop.dam","mean.dam"
+"EG","X417",178,"","3.A.ambient",1,9,5,2,23.3333333333333,80,0,0,0,0,"ambient","A",3,"3.A.ambient.X417","0",NA,NA,1,0.004
+"EG","EG1",53,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.EG1","0",NA,NA,1,0.0055
+"EG","EG3",305,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.EG3","0",NA,NA,1,0.004
+"EG","EG2",37,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.EG2","0",NA,NA,0.666666666666667,0.000666666666666667
+"EG","X191",335,"","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.X191","0",1,0.03516666667,1,0.01
+"EG","X406",96,"","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.X406","0",NA,NA,0.666666666666667,0.00366666666666667
+"EG","X194",177,"","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.X194","0",0.333333333,0.00033333333,0.666666666666667,0.000666666666666667
+"EG","X192",785,"","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.X192","0",0,0,1,0.001
+"BD","BD1",8,"","3.E.fungicide",1,1,0,0,210,180,11.1111111111111,450,0,0,"fungicide","E",3,"3.E.fungicide.BD1","0",NA,NA,NA,NA
+"BH","BH2",4,"<0.01; TOO LIGHT TO REGISTER","4.A.ambient",0,12,0,0,30,15,4,1,0,0,"ambient","A",4,"4.A.ambient.BH2","0",NA,NA,NA,NA
+"EG","X448",207,"","6.A.ambient",11,5,320,1,71.1111111111111,600,1,0,0,0,"ambient","A",6,"6.A.ambient.X448","0",NA,NA,1,0.004
+"EG","EG3",44,"","6.A.fungicide",6,8,300,350,100,10,4,0,0,0,"fungicide","A",6,"6.A.fungicide.EG3","0",NA,NA,0.333333333333333,0.000333333333333333
+"BD","BD1",17,"","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.BD1","0",NA,NA,NA,NA
+"BH","BH1",5,"","4.A.ambient",0,12,0,0,30,15,4,1,0,0,"ambient","A",4,"4.A.ambient.BH1","0",NA,NA,NA,NA
+"EG","EG1",556,"","8.A.inoculation",1,9,16.6666666666667,0,1,200,0,0,60,0,"inoculation","A",8,"8.A.inoculation.EG1","0",NA,NA,NA,NA
+"BH","BH3",3,"<0.01; TOO LIGHT TO REGISTER","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.BH3","0",NA,NA,NA,NA
+"BH","BH2",3,"<0.01; TOO LIGHT TO REGISTER","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.BH2","0",NA,NA,NA,NA
+"BH","BH1",5,"<0.01; TOO LIGHT TO REGISTER","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.BH1","0",NA,NA,NA,NA
+"BD","BD1",9,"","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.BD1","0",NA,NA,NA,NA
+"EG","EG2",553,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.EG2","0",NA,NA,0.666666666666667,0.000666666666666667
+"BH","BH2",3,"<0.01; TOO LIGHT TO REGISTER","4.C.fungicide",0,10,40,0,133.333333333333,0,250,1,0,0,"fungicide","C",4,"4.C.fungicide.BH2","0",NA,NA,NA,NA
+"BH","BH3",7,"<0.01; TOO LIGHT TO REGISTER","4.C.ambient",1,9,400,40,18,200,75,0,0,0,"ambient","C",4,"4.C.ambient.BH3","0",NA,NA,NA,NA
+"BH","BH3",2,"","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.BH3","0",NA,NA,NA,NA
+"EG","EG240",767,"","6.E.ambient",1,1,800,66.6666666666667,266.666666666667,100,0,0,0,160,"ambient","E",6,"6.E.ambient.EG240","0",NA,NA,1,0.007
+"BH","BH1",7,"","4.C.fungicide",0,10,40,0,133.333333333333,0,250,1,0,0,"fungicide","C",4,"4.C.fungicide.BH1","0",NA,NA,NA,NA
+"EG","EG1",83,"","6.A.fungicide",6,8,300,350,100,10,4,0,0,0,"fungicide","A",6,"6.A.fungicide.EG1","0",NA,NA,0.333333333333333,0.000333333333333333
+"EG","X482",107,"","8.A.ambient",6,8,100,1,2,400,0,0,0,0,"ambient","A",8,"8.A.ambient.X482","0",NA,NA,1,0.0336666666666667
+"EG","X193",41,"","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.X193","0",0.166666667,0.00016666667,0.333333333333333,0.000333333333333333
+"EG","X394",115,"","5.A.ambient",22,0,0,53.3333333333333,6,53.3333333333333,0,0,0,0,"ambient","A",5,"5.A.ambient.X394","0",NA,NA,1,0.001
+"EG","X188",258,"","5.A.ambient",22,0,0,53.3333333333333,6,53.3333333333333,0,0,0,0,"ambient","A",5,"5.A.ambient.X188","0",1,0.03383333333,1,0.01
+"BD","BD2",6,"","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.BD2","0",NA,NA,NA,NA
+"EG","X186",153,"","5.A.ambient",22,0,0,53.3333333333333,6,53.3333333333333,0,0,0,0,"ambient","A",5,"5.A.ambient.X186","0",1,0.0055,1,0.001
+"BD","BD1",6,"","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.BD1","0",NA,NA,NA,NA
+"EG","EG3",71,"","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.EG3","0",NA,NA,1,0.03
+"BD","BD2",7,"","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.BD2","0",NA,NA,NA,NA
+"BD","BD3",56,"","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.BD3","0",NA,NA,NA,NA
+"EG","X191",111,"","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.X191","0",1,0.03516666667,1,0.0233333333333333
+"EG","EG",76,"","8.E.fungicide",0,0,3,27.7777777777778,60,240,0,0,75,0,"fungicide","E",8,"8.E.fungicide.EG","0",NA,NA,NA,NA
+"BD","BD1",13,"","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.BD1","0",NA,NA,NA,NA
+"BH","BH2",3,"<0.01; TOO LIGHT TO REGISTER","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.BH2","0",NA,NA,NA,NA
+"BD","BD2",52,"","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.BD2","0",NA,NA,NA,NA
+"EG","X190",87,"","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.X190","0",1,0.03666666667,1,0.007
+"EG","EG1",261,"","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.EG1","0",NA,NA,1,0.0666666666666667
+"EG","X189",178,"","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.X189","0",1,0.06666666667,1,0.0203333333333333
+"BD","X392",1,"<0.01; TOO LIGHT TO REGISTER","5.A.ambient",22,0,0,53.3333333333333,6,53.3333333333333,0,0,0,0,"ambient","A",5,"5.A.ambient.X392","0",NA,NA,NA,NA
+"BD","BD3",15,"","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.BD3","0",NA,NA,NA,NA
+"BD","BD1",15,"","1.C.fungicide",1,3,0,4,124.444444444444,80,0,320,0,0,"fungicide","C",1,"1.C.fungicide.BD1","0",NA,NA,NA,NA
+"BD","X391",3,"","5.A.ambient",22,0,0,53.3333333333333,6,53.3333333333333,0,0,0,0,"ambient","A",5,"5.A.ambient.X391","0",NA,NA,NA,NA
+"EG","5C",329,"CHECK PLANT ID #","5.C.fungicide",0,15,50,7,22.2222222222222,186.666666666667,0,240,0,0,"fungicide","C",5,"5.C.fungicide.5C","0",NA,NA,NA,NA
+"BH","BH1",7,"","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.BH1","0",NA,NA,NA,NA
+"EG","EG2",47,"","8.A.ambient",6,8,100,1,2,400,0,0,0,0,"ambient","A",8,"8.A.ambient.EG2","0",NA,NA,0.666666666666667,0.00366666666666667
+"BD","BD2",8,"","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.BD2","0",NA,NA,NA,NA
+"BD","BD3",11,"","4.A.fungicide",0,12,266.666666666667,4,133.333333333333,0,0,10,0,0,"fungicide","A",4,"4.A.fungicide.BD3","0",NA,NA,NA,NA
+"BD","BH2",25,"","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.BH2","0",NA,NA,NA,NA
+"BD","BD1",11,"","4.A.fungicide",0,12,266.666666666667,4,133.333333333333,0,0,10,0,0,"fungicide","A",4,"4.A.fungicide.BD1","0",NA,NA,NA,NA
+"EG","EG1",52,"","8.A.ambient",6,8,100,1,2,400,0,0,0,0,"ambient","A",8,"8.A.ambient.EG1","0",NA,NA,1,0.01
+"BD","BD2",6,"","4.A.fungicide",0,12,266.666666666667,4,133.333333333333,0,0,10,0,0,"fungicide","A",4,"4.A.fungicide.BD2","0",NA,NA,NA,NA
+"EG","EG3",250,"","6.C.inoculation",4,4,1000,0,150,100,0,0,0,200,"inoculation","C",6,"6.C.inoculation.EG3","0",NA,NA,0.666666666666667,0.00366666666666667
+"EG","EG2",126,"","6.C.inoculation",4,4,1000,0,150,100,0,0,0,200,"inoculation","C",6,"6.C.inoculation.EG2","0",NA,NA,1,0.01
+"BD","BD3",15,"","1.C.fungicide",1,3,0,4,124.444444444444,80,0,320,0,0,"fungicide","C",1,"1.C.fungicide.BD3","0",NA,NA,NA,NA
+"BD","BD1",7,"","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.BD1","0",NA,NA,NA,NA
+"BD","BD1",25,"","4.A.ambient",0,12,0,0,30,15,4,1,0,0,"ambient","A",4,"4.A.ambient.BD1","0",NA,NA,NA,NA
+"BD","BD2",12,"","1.C.fungicide",1,3,0,4,124.444444444444,80,0,320,0,0,"fungicide","C",1,"1.C.fungicide.BD2","0",NA,NA,NA,NA
+"BH","BH3",7,"<0.01; TOO LIGHT TO REGISTER","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.BH3","0",NA,NA,NA,NA
+"BD","X470",15,"","4.A.ambient",0,12,0,0,30,15,4,1,0,0,"ambient","A",4,"4.A.ambient.X470","0",NA,NA,NA,NA
+"EG","EG2",76,"","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.EG2","0",NA,NA,1,0.0173333333333333
+"BD","BD2",24,"","4.A.ambient",0,12,0,0,30,15,4,1,0,0,"ambient","A",4,"4.A.ambient.BD2","0",NA,NA,NA,NA
+"BD","BD3",4,"","4.A.inoculation",0,12,100,4,15,3,300,80,0,0,"inoculation","A",4,"4.A.inoculation.BD3","0",NA,NA,NA,NA
+"EG","EG1",222,"","6.C.inoculation",4,4,1000,0,150,100,0,0,0,200,"inoculation","C",6,"6.C.inoculation.EG1","0",NA,NA,1,0.007
+"BD","BD1",14,"","1.E.inoculation",0,0,1760,9,125,33.3333333333333,13.3333333333333,0,4,0,"inoculation","E",1,"1.E.inoculation.BD1","0",NA,NA,NA,NA
+"BH","BH2",15,"","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.BH2","0",NA,NA,NA,NA
+"BH","BH3",13,"","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.BH3","0",NA,NA,NA,NA
+"BD","X390",2,"","5.A.ambient",22,0,0,53.3333333333333,6,53.3333333333333,0,0,0,0,"ambient","A",5,"5.A.ambient.X390","0",NA,NA,NA,NA
+"BH","BH1",13,"","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.BH1","0",NA,NA,NA,NA
+"BD","X511",23,"","1.E.ambient",1,1,100,0,150,70,66.6666666666667,480,0,0,"ambient","E",1,"1.E.ambient.X511","0",NA,NA,NA,NA
+"BD","BD2",7,"","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.BD2","0",NA,NA,NA,NA
+"BD","BD3",12,"","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.BD3","0",NA,NA,NA,NA
+"BD","X513",27,"","1.E.ambient",1,1,100,0,150,70,66.6666666666667,480,0,0,"ambient","E",1,"1.E.ambient.X513","0",NA,NA,NA,NA
+"EG","EG3",237,"","6.E.inoculation",3,2,240,0,350,160,0,0,0,400,"inoculation","E",6,"6.E.inoculation.EG3","0",NA,NA,1,0.0233333333333333
+"BD","BD1",37,"","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.BD1","0",NA,NA,NA,NA
+"BD","BD3",14,"","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.BD3","0",NA,NA,NA,NA
+"BH","BH3",7,"","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.BH3","0",NA,NA,NA,NA
+"BD","BD1",4,"","4.A.inoculation",0,12,100,4,15,3,300,80,0,0,"inoculation","A",4,"4.A.inoculation.BD1","0",NA,NA,NA,NA
+"EG","EG3",100,"","8.C.fungicide",1,16,0,0,2,120,0,0,0,0,"fungicide","C",8,"8.C.fungicide.EG3","0",NA,NA,1,0.004
+"BD","BD2",10,"","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.BD2","0",NA,NA,NA,NA
+"EG","EG3",176,"","6.C.ambient",8,1,1000,1,25,125,0,0,0,0,"ambient","C",6,"6.C.ambient.EG3","0",NA,NA,1,0.004
+"EG","EG2",78,"","8.A.inoculation",1,9,16.6666666666667,0,1,200,0,0,60,0,"inoculation","A",8,"8.A.inoculation.EG2","0",NA,NA,NA,NA
+"BD","BD3",24,"","1.E.inoculation",0,0,1760,9,125,33.3333333333333,13.3333333333333,0,4,0,"inoculation","E",1,"1.E.inoculation.BD3","0",NA,NA,NA,NA
+"BD","BD3",9,"","5.E.inoculation",1,0,1800,100,150,200,3,0,0,0,"inoculation","E",5,"5.E.inoculation.BD3","0",NA,NA,NA,NA
+"EG","X449",21,"","6.A.ambient",11,5,320,1,71.1111111111111,600,1,0,0,0,"ambient","A",6,"6.A.ambient.X449","0",NA,NA,1,0.004
+"BH","BH2",20,"","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.BH2","0",NA,NA,NA,NA
+"BD","BD1",2,"","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.BD1","0",NA,NA,NA,NA
+"BD","BD3",7,"","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.BD3","0",NA,NA,NA,NA
+"BD","BD2",3,"TOO LIGHT; <0.01","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.BD2","0",NA,NA,NA,NA
+"BD","BD1",23,"","3.A.ambient",1,9,5,2,23.3333333333333,80,0,0,0,0,"ambient","A",3,"3.A.ambient.BD1","0",NA,NA,NA,NA
+"BD","BD2",10,"","1.E.inoculation",0,0,1760,9,125,33.3333333333333,13.3333333333333,0,4,0,"inoculation","E",1,"1.E.inoculation.BD2","0",NA,NA,NA,NA
+"BH","BH3",19,"","1.E.inoculation",0,0,1760,9,125,33.3333333333333,13.3333333333333,0,4,0,"inoculation","E",1,"1.E.inoculation.BH3","0",NA,NA,NA,NA
+"BD","BD2",4,"","5.E.fungicide",0,0,50,16.6666666666667,240,500,8,1,0,0,"fungicide","E",5,"5.E.fungicide.BD2","0",NA,NA,NA,NA
+"BH","BH1",12,"","8.E.ambient",1,1,1,22.2222222222222,66.6666666666667,360,0,0,0,0,"ambient","E",8,"8.E.ambient.BH1","0",NA,NA,NA,NA
+"BD","BD1",23,"","5.E.inoculation",1,0,1800,100,150,200,3,0,0,0,"inoculation","E",5,"5.E.inoculation.BD1","0",NA,NA,NA,NA
+"BH","BH2",13,"","5.E.fungicide",0,0,50,16.6666666666667,240,500,8,1,0,0,"fungicide","E",5,"5.E.fungicide.BH2","0",NA,NA,NA,NA
+"BD","BD2",28,"","5.C.fungicide",0,15,50,7,22.2222222222222,186.666666666667,0,240,0,0,"fungicide","C",5,"5.C.fungicide.BD2","0",NA,NA,NA,NA
+"EG","EG2",135,"","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.EG2","0",NA,NA,1,0.01
+"BH","BH2",27,"","1.E.inoculation",0,0,1760,9,125,33.3333333333333,13.3333333333333,0,4,0,"inoculation","E",1,"1.E.inoculation.BH2","0",NA,NA,NA,NA
+"EG","X210",268,"","6.A.ambient",11,5,320,1,71.1111111111111,600,1,0,0,0,"ambient","A",6,"6.A.ambient.X210","0",1,0.007,1,0.0173333333333333
+"BH","BH1",32,"","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.BH1","0",NA,NA,NA,NA
+"BH","BH2",24,"","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.BH2","0",NA,NA,NA,NA
+"BH","BH1",25,"","1.E.inoculation",0,0,1760,9,125,33.3333333333333,13.3333333333333,0,4,0,"inoculation","E",1,"1.E.inoculation.BH1","0",NA,NA,NA,NA
+"BD","BD1",18,"","5.E.fungicide",0,0,50,16.6666666666667,240,500,8,1,0,0,"fungicide","E",5,"5.E.fungicide.BD1","0",NA,NA,NA,NA
+"BH","X411",9,"","3.A.ambient",1,9,5,2,23.3333333333333,80,0,0,0,0,"ambient","A",3,"3.A.ambient.X411","0",NA,NA,NA,NA
+"BD","BD3",6,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.BD3","0",NA,NA,NA,NA
+"EG","EG3",32,"","8.C.ambient",9,2,0,700,2,240,0,0,0,0,"ambient","C",8,"8.C.ambient.EG3","0",NA,NA,1,0.001
+"BH","BH1",9,"","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.BH1","0",NA,NA,NA,NA
+"BD","BD3",9,"","5.E.fungicide",0,0,50,16.6666666666667,240,500,8,1,0,0,"fungicide","E",5,"5.E.fungicide.BD3","0",NA,NA,NA,NA
+"BH","BH1",113,"","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.BH1","0",NA,NA,NA,NA
+"BH","BH1",4,"","5.E.fungicide",0,0,50,16.6666666666667,240,500,8,1,0,0,"fungicide","E",5,"5.E.fungicide.BH1","0",NA,NA,NA,NA
+"EG","EG1",57,"","6.E.inoculation",3,2,240,0,350,160,0,0,0,400,"inoculation","E",6,"6.E.inoculation.EG1","0",NA,NA,1,0.0233333333333333
+"BH","BH2",19,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.BH2","0",NA,NA,NA,NA
+"BH","BH1",13,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.BH1","0",NA,NA,NA,NA
+"EG","EG2",849,"","6.E.fungicide",4,2,150,0,250,700,0,0,0,350,"fungicide","E",6,"6.E.fungicide.EG2","0",NA,NA,0.333333333333333,0.000333333333333333
+"BH","BH2",10,"","8.E.fungicide",0,0,3,27.7777777777778,60,240,0,0,75,0,"fungicide","E",8,"8.E.fungicide.BH2","0",NA,NA,NA,NA
+"BH","BH2",2,"TOO LIGHT; <0.01","4.A.inoculation",0,12,100,4,15,3,300,80,0,0,"inoculation","A",4,"4.A.inoculation.BH2","0",NA,NA,NA,NA
+"BH","BH3",8,"","5.E.fungicide",0,0,50,16.6666666666667,240,500,8,1,0,0,"fungicide","E",5,"5.E.fungicide.BH3","0",NA,NA,NA,NA
+"BH","BH1",4,"TOO LIGHT; <0.01","4.A.inoculation",0,12,100,4,15,3,300,80,0,0,"inoculation","A",4,"4.A.inoculation.BH1","0",NA,NA,NA,NA
+"BH","BH1",31,"","6.C.ambient",8,1,1000,1,25,125,0,0,0,0,"ambient","C",6,"6.C.ambient.BH1","0",NA,NA,NA,NA
+"EG","EG3",30,"","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.EG3","0",NA,NA,1,0.05
+"BD","BD1",9,"","8.C.ambient",9,2,0,700,2,240,0,0,0,0,"ambient","C",8,"8.C.ambient.BD1","0",NA,NA,NA,NA
+"BD","BD3",16,"","8.C.ambient",9,2,0,700,2,240,0,0,0,0,"ambient","C",8,"8.C.ambient.BD3","0",NA,NA,NA,NA
+"BD","BD2",2,"TOO LIGHT; <0.01","6.A.fungicide",6,8,300,350,100,10,4,0,0,0,"fungicide","A",6,"6.A.fungicide.BD2","0",NA,NA,NA,NA
+"BD","BD1",18,"","6.A.fungicide",6,8,300,350,100,10,4,0,0,0,"fungicide","A",6,"6.A.fungicide.BD1","0",NA,NA,NA,NA
+"BD","BD1",7,"TOO LIGHT; <0.01","3.C.ambient",1,7,0,0,200,225,9,300,0,0,"ambient","C",3,"3.C.ambient.BD1","0",NA,NA,NA,NA
+"BD","BD3",14,"","8.E.ambient",1,1,1,22.2222222222222,66.6666666666667,360,0,0,0,0,"ambient","E",8,"8.E.ambient.BD3","0",NA,NA,NA,NA
+"BD","BD2",6,"","6.E.ambient",1,1,800,66.6666666666667,266.666666666667,100,0,0,0,160,"ambient","E",6,"6.E.ambient.BD2","0",NA,NA,NA,NA
+"EG","EG1",23,"","8.C.fungicide",1,16,0,0,2,120,0,0,0,0,"fungicide","C",8,"8.C.fungicide.EG1","0",NA,NA,0.333333333333333,0.000333333333333333
+"BD","BD1",3,"","6.E.ambient",1,1,800,66.6666666666667,266.666666666667,100,0,0,0,160,"ambient","E",6,"6.E.ambient.BD1","0",NA,NA,NA,NA
+"BD","BD2",16,"","8.C.ambient",9,2,0,700,2,240,0,0,0,0,"ambient","C",8,"8.C.ambient.BD2","0",NA,NA,NA,NA
+"BD","BD3",53,"","3.C.fungicide",0,0,0,4,293.333333333333,66.6666666666667,60,100,0,0,"fungicide","C",3,"3.C.fungicide.BD3","0",NA,NA,NA,NA
+"EG","EG2",22,"","6.A.fungicide",6,8,300,350,100,10,4,0,0,0,"fungicide","A",6,"6.A.fungicide.EG2","0",NA,NA,0.666666666666667,0.00366666666666667
+"BD","BD2",10,"","3.C.fungicide",0,0,0,4,293.333333333333,66.6666666666667,60,100,0,0,"fungicide","C",3,"3.C.fungicide.BD2","0",NA,NA,NA,NA
+"BH","BH1",72,"","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.BH1","0",NA,NA,NA,NA
+"BH","BH2",4,"","3.A.fungicide",1,8,6,0,4,16,0,300,0,0,"fungicide","A",3,"3.A.fungicide.BH2","0",NA,NA,NA,NA
+"BH","BH2",1,"TOO LIGHT; <0.01","6.A.fungicide",6,8,300,350,100,10,4,0,0,0,"fungicide","A",6,"6.A.fungicide.BH2","0",NA,NA,NA,NA
+"BD","BD2",3,"","3.E.fungicide",1,1,0,0,210,180,11.1111111111111,450,0,0,"fungicide","E",3,"3.E.fungicide.BD2","0",NA,NA,NA,NA
+"BD","BD3",3,"","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.BD3","0",NA,NA,NA,NA
+"BD","BD1",5,"","3.C.fungicide",0,0,0,4,293.333333333333,66.6666666666667,60,100,0,0,"fungicide","C",3,"3.C.fungicide.BD1","0",NA,NA,NA,NA
+"BD","BH1",18,"","5.C.fungicide",0,15,50,7,22.2222222222222,186.666666666667,0,240,0,0,"fungicide","C",5,"5.C.fungicide.BH1","0",NA,NA,NA,NA
+"BD","BD2",7,"","3.E.ambient",0,1,6,0,100,600,27.7777777777778,450,0,0,"ambient","E",3,"3.E.ambient.BD2","0",NA,NA,NA,NA
+"EG","EG3",42,"","8.A.inoculation",1,9,16.6666666666667,0,1,200,0,0,60,0,"inoculation","A",8,"8.A.inoculation.EG3","0",NA,NA,1,0.0055
+"BD","BD3",18,"","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.BD3","0",NA,NA,NA,NA
+"BH","BH3",335,"","5.C.fungicide",0,15,50,7,22.2222222222222,186.666666666667,0,240,0,0,"fungicide","C",5,"5.C.fungicide.BH3","0",NA,NA,NA,NA
+"EG","EG1",409,"","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.EG1","0",NA,NA,0.666666666666667,0.00666666666666667
+"EG","EG2",67,"","8.C.fungicide",1,16,0,0,2,120,0,0,0,0,"fungicide","C",8,"8.C.fungicide.EG2","0",NA,NA,0.333333333333333,0.000333333333333333
+"BD","BD1",8,"","3.E.ambient",0,1,6,0,100,600,27.7777777777778,450,0,0,"ambient","E",3,"3.E.ambient.BD1","0",NA,NA,NA,NA
+"BD","BD1",10,"","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.BD1","0",NA,NA,NA,NA
+"BD","X421",1,"TOO LIGHT; <0.01","3.E.ambient",0,1,6,0,100,600,27.7777777777778,450,0,0,"ambient","E",3,"3.E.ambient.X421","0",NA,NA,NA,NA
+"BD","BD2",16,"","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.BD2","0",NA,NA,NA,NA
+"EG","X462",8,"","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.X462","0",NA,NA,0,0
+"BD","BD1",20,"","5.C.fungicide",0,15,50,7,22.2222222222222,186.666666666667,0,240,0,0,"fungicide","C",5,"5.C.fungicide.BD1","0",NA,NA,NA,NA
+"BD","BD3",36,"","5.C.fungicide",0,15,50,7,22.2222222222222,186.666666666667,0,240,0,0,"fungicide","C",5,"5.C.fungicide.BD3","0",NA,NA,NA,NA
+"BD","BD2",25,"","5.E.inoculation",1,0,1800,100,150,200,3,0,0,0,"inoculation","E",5,"5.E.inoculation.BD2","0",NA,NA,NA,NA
+"BH","BH2",62,"","5.C.fungicide",0,15,50,7,22.2222222222222,186.666666666667,0,240,0,0,"fungicide","C",5,"5.C.fungicide.BH2","0",NA,NA,NA,NA
+"EG","EG2",46,"","8.C.ambient",9,2,0,700,2,240,0,0,0,0,"ambient","C",8,"8.C.ambient.EG2","0",NA,NA,1,0.0173333333333333
+"BD","BH2",4,"TOO LIGHT; <0.01","5.E.inoculation",1,0,1800,100,150,200,3,0,0,0,"inoculation","E",5,"5.E.inoculation.BH2","0",NA,NA,NA,NA
+"EG","EG1",13,"","5.E.fungicide",0,0,50,16.6666666666667,240,500,8,1,0,0,"fungicide","E",5,"5.E.fungicide.EG1","0",NA,NA,0.666666666666667,0.000666666666666667
+"BD","BH2",8,"","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.BH2","0",NA,NA,NA,NA
+"EG","EG1",49,"","8.C.ambient",9,2,0,700,2,240,0,0,0,0,"ambient","C",8,"8.C.ambient.EG1","0",NA,NA,1,0.007
+"BD","BH2",14,"","6.C.ambient",8,1,1000,1,25,125,0,0,0,0,"ambient","C",6,"6.C.ambient.BH2","0",NA,NA,NA,NA
+"AB","AB2",3,"","5.C.fungicide",0,15,50,7,22.2222222222222,186.666666666667,0,240,0,0,"fungicide","C",5,"5.C.fungicide.AB2","0",NA,NA,NA,NA
+"BH","BH3",24,"","6.C.ambient",8,1,1000,1,25,125,0,0,0,0,"ambient","C",6,"6.C.ambient.BH3","0",NA,NA,NA,NA
+"EG","EG1",20,"","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.EG1","0",NA,NA,1,0.001
+"BH","BH1",7,"","5.E.inoculation",1,0,1800,100,150,200,3,0,0,0,"inoculation","E",5,"5.E.inoculation.BH1","0",NA,NA,NA,NA
+"EG","EG2",81,"","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.EG2","0",NA,NA,1,0.007
+"BD","BD3",7,"","1.A.inoculation",0,12,0,0,9,266.666666666667,30,0,0,0,"inoculation","A",1,"1.A.inoculation.BD3","0",NA,NA,NA,NA
+"BD","BD2",7,"","1.A.inoculation",0,12,0,0,9,266.666666666667,30,0,0,0,"inoculation","A",1,"1.A.inoculation.BD2","0",NA,NA,NA,NA
+"BD","BD3",5,"","3.E.fungicide",1,1,0,0,210,180,11.1111111111111,450,0,0,"fungicide","E",3,"3.E.fungicide.BD3","0",NA,NA,NA,NA
+"BD","BD1",21,"","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.BD1","0",NA,NA,NA,NA
+"BD","BD2",14,"","1.C.inoculation",0,7,1,0,70,105,3,150,0,0,"inoculation","C",1,"1.C.inoculation.BD2","0",NA,NA,NA,NA
+"BD","BD3",23,"","1.C.inoculation",0,7,1,0,70,105,3,150,0,0,"inoculation","C",1,"1.C.inoculation.BD3","0",NA,NA,NA,NA
+"BD","BD1",5,"","1.C.inoculation",0,7,1,0,70,105,3,150,0,0,"inoculation","C",1,"1.C.inoculation.BD1","0",NA,NA,NA,NA
+"EG","EG3",240,"","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.EG3","0",NA,NA,1,0.004
+"BD","BD2",20,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.BD2","0",NA,NA,NA,NA
+"BD","BD1",17,"","3.A.fungicide",1,8,6,0,4,16,0,300,0,0,"fungicide","A",3,"3.A.fungicide.BD1","0",NA,NA,NA,NA
+"BD","BD2",5,"","1.A.ambient",0,20,4,2,12,200,5,2,0,0,"ambient","A",1,"1.A.ambient.BD2","0",NA,NA,NA,NA
+"BD","X400",12,"","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.X400","0",NA,NA,NA,NA
+"BD","X401",3,"","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.X401","0",NA,NA,NA,NA
+"BD","BD2",3,"","3.A.ambient",1,9,5,2,23.3333333333333,80,0,0,0,0,"ambient","A",3,"3.A.ambient.BD2","0",NA,NA,NA,NA
+"BD","X444",2,"TOO LIGHT; <0.01","6.A.ambient",11,5,320,1,71.1111111111111,600,1,0,0,0,"ambient","A",6,"6.A.ambient.X444","0",NA,NA,NA,NA
+"BD","BH3",8,"TOO LIGHT; <0.01","6.E.inoculation",3,2,240,0,350,160,0,0,0,400,"inoculation","E",6,"6.E.inoculation.BH3","0",NA,NA,NA,NA
+"BH","BD2",18,"","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.BD2","0",NA,NA,NA,NA
+"BD","EG2",140,"","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.EG2","0",NA,NA,0.333333333333333,0.000333333333333333
+"EG","BD3",11,"","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.BD3","0",NA,NA,NA,NA
+"BD","BD2",16,"","8.E.fungicide",0,0,3,27.7777777777778,60,240,0,0,75,0,"fungicide","E",8,"8.E.fungicide.BD2","0",NA,NA,NA,NA
+"BD","BD1",19,"","8.E.fungicide",0,0,3,27.7777777777778,60,240,0,0,75,0,"fungicide","E",8,"8.E.fungicide.BD1","0",NA,NA,NA,NA
+"EG","EG3",293,"","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.EG3","0",NA,NA,1,0.004
+"EG","EG1",21,"","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.EG1","0",NA,NA,1,0.001
+"BH","BH2",18,"","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.BH2","0",NA,NA,NA,NA
+"BD","X500",3,"","1.A.ambient",0,20,4,2,12,200,5,2,0,0,"ambient","A",1,"1.A.ambient.X500","0",NA,NA,NA,NA
+"BD","BD2",22,"","6.E.fungicide",4,2,150,0,250,700,0,0,0,350,"fungicide","E",6,"6.E.fungicide.BD2","0",NA,NA,NA,NA
+"BH","BH2",8,"","6.E.fungicide",4,2,150,0,250,700,0,0,0,350,"fungicide","E",6,"6.E.fungicide.BH2","0",NA,NA,NA,NA
+"BH","BH1",27,"","3.A.fungicide",1,8,6,0,4,16,0,300,0,0,"fungicide","A",3,"3.A.fungicide.BH1","0",NA,NA,NA,NA
+"BD","BD3",6,"","6.E.fungicide",4,2,150,0,250,700,0,0,0,350,"fungicide","E",6,"6.E.fungicide.BD3","0",NA,NA,NA,NA
+"BH","BH3",13,"","3.A.inoculation",0,11,6,0,1,20,0,0,0,0,"inoculation","A",3,"3.A.inoculation.BH3","0",NA,NA,NA,NA
+"BD","BD1",5,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.BD1","0",NA,NA,NA,NA
+"BH","BH2",16,"","3.A.inoculation",0,11,6,0,1,20,0,0,0,0,"inoculation","A",3,"3.A.inoculation.BH2","0",NA,NA,NA,NA
+"BH","BH3",10,"","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.BH3","0",NA,NA,NA,NA
+"BH","BH1",9,"","3.A.inoculation",0,11,6,0,1,20,0,0,0,0,"inoculation","A",3,"3.A.inoculation.BH1","0",NA,NA,NA,NA
+"BH","BH1",17,"TOO LIGHT; <0.01","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.BH1","0",NA,NA,NA,NA
+"BD","BD1",6,"","1.A.inoculation",0,12,0,0,9,266.666666666667,30,0,0,0,"inoculation","A",1,"1.A.inoculation.BD1","0",NA,NA,NA,NA
+"BH","BH1",11,"","6.E.fungicide",4,2,150,0,250,700,0,0,0,350,"fungicide","E",6,"6.E.fungicide.BH1","0",NA,NA,NA,NA
+"BH","BH1",7,"","3.A.ambient",1,9,5,2,23.3333333333333,80,0,0,0,0,"ambient","A",3,"3.A.ambient.BH1","0",NA,NA,NA,NA
+"EG","EG3",1824,"","6.E.fungicide",4,2,150,0,250,700,0,0,0,350,"fungicide","E",6,"6.E.fungicide.EG3","0",NA,NA,1,0.004
+"EG","EG3",12,"","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.EG3","0",NA,NA,0.666666666666667,0.00366666666666667
+"BD","BD3",7,"","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.BD3","0",NA,NA,NA,NA
+"BH","BH1",12,"","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.BH1","0",NA,NA,NA,NA
+"BD","BD3",14,"","8.E.fungicide",0,0,3,27.7777777777778,60,240,0,0,75,0,"fungicide","E",8,"8.E.fungicide.BD3","0",NA,NA,NA,NA
+"BD","BD2",6,"","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.BD2","0",NA,NA,NA,NA
+"EG","BD1",19,"","6.E.fungicide",4,2,150,0,250,700,0,0,0,350,"fungicide","E",6,"6.E.fungicide.BD1","0",NA,NA,NA,NA
+"BH","BH1",21,"","8.E.fungicide",0,0,3,27.7777777777778,60,240,0,0,75,0,"fungicide","E",8,"8.E.fungicide.BH1","0",NA,NA,NA,NA
+"EG","EG1",2,"","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.EG1","0",NA,NA,1,0.001
+"BH","BH3",8,"","6.C.inoculation",4,4,1000,0,150,100,0,0,0,200,"inoculation","C",6,"6.C.inoculation.BH3","0",NA,NA,NA,NA
+"EG","EG1",2,"TOO LIGHT; <0.01","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.EG1","0",NA,NA,1,0.001
+"BH","BH3",8,"","6.C.inoculation",4,4,1000,0,150,100,0,0,0,200,"inoculation","C",6,"6.C.inoculation.BH3","0",NA,NA,NA,NA
+"BH","BH2",5,"TOO LIGHT; <0.01","8.E.ambient",1,1,1,22.2222222222222,66.6666666666667,360,0,0,0,0,"ambient","E",8,"8.E.ambient.BH2","0",NA,NA,NA,NA
+"BH","BH3",8,"","8.E.ambient",1,1,1,22.2222222222222,66.6666666666667,360,0,0,0,0,"ambient","E",8,"8.E.ambient.BH3","0",NA,NA,NA,NA
+"BD","BD2",24,"","8.E.ambient",1,1,1,22.2222222222222,66.6666666666667,360,0,0,0,0,"ambient","E",8,"8.E.ambient.BD2","0",NA,NA,NA,NA
+"BH","BH1",13,"","6.E.ambient",1,1,800,66.6666666666667,266.666666666667,100,0,0,0,160,"ambient","E",6,"6.E.ambient.BH1","0",NA,NA,NA,NA
+"BD","BD1",16,"","8.E.ambient",1,1,1,22.2222222222222,66.6666666666667,360,0,0,0,0,"ambient","E",8,"8.E.ambient.BD1","0",NA,NA,NA,NA
+"EG","EG1",693,"","6.C.ambient",8,1,1000,1,25,125,0,0,0,0,"ambient","C",6,"6.C.ambient.EG1","0",NA,NA,1,0.0173333333333333
+"BD","BD2",11,"","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.BD2","0",NA,NA,NA,NA
+"BH","BH1",4,"TOO LIGHT; <0.01","6.C.inoculation",4,4,1000,0,150,100,0,0,0,200,"inoculation","C",6,"6.C.inoculation.BH1","0",NA,NA,NA,NA
+"BD","BD1",13,"","4.C.ambient",1,9,400,40,18,200,75,0,0,0,"ambient","C",4,"4.C.ambient.BD1","0",NA,NA,NA,NA
+"BD","BD2",18,"","4.C.ambient",1,9,400,40,18,200,75,0,0,0,"ambient","C",4,"4.C.ambient.BD2","0",NA,NA,NA,NA
+"BH","BH1",26,"","4.C.ambient",1,9,400,40,18,200,75,0,0,0,"ambient","C",4,"4.C.ambient.BH1","0",NA,NA,NA,NA
+"BD","BD3",13,"","4.C.ambient",1,9,400,40,18,200,75,0,0,0,"ambient","C",4,"4.C.ambient.BD3","0",NA,NA,NA,NA
+"BH","BH2",5,"","4.C.ambient",1,9,400,40,18,200,75,0,0,0,"ambient","C",4,"4.C.ambient.BH2","0",NA,NA,NA,NA
+"BH","BH3",4,"TOO LIGHT; <0.01","4.C.fungicide",0,10,40,0,133.333333333333,0,250,1,0,0,"fungicide","C",4,"4.C.fungicide.BH3","0",NA,NA,NA,NA
+"BD","X432",3,"","6.E.ambient",1,1,800,66.6666666666667,266.666666666667,100,0,0,0,160,"ambient","E",6,"6.E.ambient.X432","0",NA,NA,NA,NA
+"BH","BH2",14,"","6.C.inoculation",4,4,1000,0,150,100,0,0,0,200,"inoculation","C",6,"6.C.inoculation.BH2","0",NA,NA,NA,NA
+"BH","X402",2,"","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.X402","0",NA,NA,NA,NA
+"BH","BH2",6,"","6.E.inoculation",3,2,240,0,350,160,0,0,0,400,"inoculation","E",6,"6.E.inoculation.BH2","0",NA,NA,NA,NA
+"BD","BD1",21,"","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.BD1","0",NA,NA,NA,NA
+"EG","EG1",32,"","4.C.ambient",1,9,400,40,18,200,75,0,0,0,"ambient","C",4,"4.C.ambient.EG1","0",NA,NA,1,0.004
+"BH","BH3",12,"","8.A.inoculation",1,9,16.6666666666667,0,1,200,0,0,60,0,"inoculation","A",8,"8.A.inoculation.BH3","0",NA,NA,NA,NA
+"BH","BH2",7,"","8.A.inoculation",1,9,16.6666666666667,0,1,200,0,0,60,0,"inoculation","A",8,"8.A.inoculation.BH2","0",NA,NA,NA,NA
+"BD","BD2",37,"","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.BD2","0",NA,NA,NA,NA
+"BD","BD1",8,"","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.BD1","0",NA,NA,NA,NA
+"BD","BD1",5,"","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.BD1","0",NA,NA,NA,NA
+"BD","BD3",7,"","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.BD3","0",NA,NA,NA,NA
+"BH","X479",4,"","8.A.ambient",6,8,100,1,2,400,0,0,0,0,"ambient","A",8,"8.A.ambient.X479","0",NA,NA,NA,NA
+"BH","BH1",10,"","8.A.ambient",6,8,100,1,2,400,0,0,0,0,"ambient","A",8,"8.A.ambient.BH1","0",NA,NA,NA,NA
+"BH","BH1",10,"TOO LIGHT; <0.01","6.E.inoculation",3,2,240,0,350,160,0,0,0,400,"inoculation","E",6,"6.E.inoculation.BH1","0",NA,NA,NA,NA
+"BH","BH2",11,"","1.A.fungicide",0,12,225,0,6,166.666666666667,26.6666666666667,150,0,0,"fungicide","A",1,"1.A.fungicide.BH2","0",NA,NA,NA,NA
+"BD","BD3",17,"","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.BD3","0",NA,NA,NA,NA
+"EG","EG1",13,"","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.EG1","0",NA,NA,1,0.0173333333333333
+"BD","BD2",6,"","3.C.ambient",1,7,0,0,200,225,9,300,0,0,"ambient","C",3,"3.C.ambient.BD2","0",NA,NA,NA,NA
+"EG","EG1",43,"","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.EG1","0",NA,NA,1,0.004
+"BH","BH1",7,"TOO LIGHT; <0.01","1.A.fungicide",0,12,225,0,6,166.666666666667,26.6666666666667,150,0,0,"fungicide","A",1,"1.A.fungicide.BH1","0",NA,NA,NA,NA
+"BH","BH3",53,"","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.BH3","0",NA,NA,NA,NA
+"EG","EG1",120,"","3.A.fungicide",1,8,6,0,4,16,0,300,0,0,"fungicide","A",3,"3.A.fungicide.EG1","0",NA,NA,0.333333333333333,0.000333333333333333
+"BH","BH2",17,"","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.BH2","0",NA,NA,NA,NA
+"EG","EG2",910,"","6.E.inoculation",3,2,240,0,350,160,0,0,0,400,"inoculation","E",6,"6.E.inoculation.EG2","0",NA,NA,1,0.007
+"BH","BH1",22,"","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.BH1","0",NA,NA,NA,NA
+"EG","X474",24,"","4.A.ambient",0,12,0,0,30,15,4,1,0,0,"ambient","A",4,"4.A.ambient.X474","0",NA,NA,1,0.001
+"EG","X425",21,"","3.E.ambient",0,1,6,0,100,600,27.7777777777778,450,0,0,"ambient","E",3,"3.E.ambient.X425","0",NA,NA,1,0.001
+"BH","BH1",23,"","8.A.inoculation",1,9,16.6666666666667,0,1,200,0,0,60,0,"inoculation","A",8,"8.A.inoculation.BH1","0",NA,NA,NA,NA
+"BH","BH1",16,"","1.E.ambient",1,1,100,0,150,70,66.6666666666667,480,0,0,"ambient","E",1,"1.E.ambient.BH1","0",NA,NA,NA,NA
+"BH","BH1",3,"TOO LIGHT; <0.01","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.BH1","0",NA,NA,NA,NA
+"BH","BH3",5,"TOO LIGHT; <0.01","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.BH3","0",NA,NA,NA,NA
+"BH","BH2",8,"","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.BH2","0",NA,NA,NA,NA
+"BH","BH1",4,"TOO LIGHT; <0.01","6.A.fungicide",6,8,300,350,100,10,4,0,0,0,"fungicide","A",6,"6.A.fungicide.BH1","0",NA,NA,NA,NA
+"BH","BH3",8,"","1.E.ambient",1,1,100,0,150,70,66.6666666666667,480,0,0,"ambient","E",1,"1.E.ambient.BH3","0",NA,NA,NA,NA
+"BH","BH3",30,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.BH3","0",NA,NA,NA,NA
+"BH","BH2",53,"","1.E.ambient",1,1,100,0,150,70,66.6666666666667,480,0,0,"ambient","E",1,"1.E.ambient.BH2","0",NA,NA,NA,NA
+"BD","X410",4,"","3.A.ambient",1,9,5,2,23.3333333333333,80,0,0,0,0,"ambient","A",3,"3.A.ambient.X410","0",NA,NA,NA,NA
+"BD","BD2",5,"","4.A.inoculation",0,12,100,4,15,3,300,80,0,0,"inoculation","A",4,"4.A.inoculation.BD2","0",NA,NA,NA,NA
+"BH","BH3",0,"TOO LIGHT; <0.01","5.E.inoculation",1,0,1800,100,150,200,3,0,0,0,"inoculation","E",5,"5.E.inoculation.BH3","0",NA,NA,NA,NA
+"BD","X512",59,"","1.E.ambient",1,1,100,0,150,70,66.6666666666667,480,0,0,"ambient","E",1,"1.E.ambient.X512","0",NA,NA,NA,NA
+"EG","EG1",3851,"","5.E.inoculation",1,0,1800,100,150,200,3,0,0,0,"inoculation","E",5,"5.E.inoculation.EG1","0",NA,NA,1,0.0533333333333333
+"AB","AB3",7,"AF","4.A.fungicide",0,12,266.666666666667,4,133.333333333333,0,0,10,0,0,"fungicide","A",4,"4.A.fungicide.AB3","0",NA,NA,NA,NA
+"SP","X496",2,"","8.E.ambient",1,1,1,22.2222222222222,66.6666666666667,360,0,0,0,0,"ambient","E",8,"8.E.ambient.X496","0",NA,NA,1,0.01
+"AB","AB2",2,"NO SEEDS","4.A.fungicide",0,12,266.666666666667,4,133.333333333333,0,0,10,0,0,"fungicide","A",4,"4.A.fungicide.AB2","0",NA,NA,NA,NA
+"AB","AB1",3,"NO SEEDS","4.A.fungicide",0,12,266.666666666667,4,133.333333333333,0,0,10,0,0,"fungicide","A",4,"4.A.fungicide.AB1","0",NA,NA,NA,NA
+"AB","AB3",4,"AF","4.A.inoculation",0,12,100,4,15,3,300,80,0,0,"inoculation","A",4,"4.A.inoculation.AB3","0",NA,NA,NA,NA
+"BH","X478",20,"","8.A.ambient",6,8,100,1,2,400,0,0,0,0,"ambient","A",8,"8.A.ambient.X478","0",NA,NA,NA,NA
+"AB","AB2",3,"NO SEEDS","4.A.inoculation",0,12,100,4,15,3,300,80,0,0,"inoculation","A",4,"4.A.inoculation.AB2","0",NA,NA,NA,NA
+"AB","AB1",3,"NO SEEDS","4.A.inoculation",0,12,100,4,15,3,300,80,0,0,"inoculation","A",4,"4.A.inoculation.AB1","0",NA,NA,NA,NA
+"AB","AB2",7,"AF","1.E.inoculation",0,0,1760,9,125,33.3333333333333,13.3333333333333,0,4,0,"inoculation","E",1,"1.E.inoculation.AB2","0",NA,NA,1,0.0055
+NA,"X467",2,"NO SEEDS","4.A.ambient",0,12,0,0,30,15,4,1,0,0,"ambient","A",4,"4.A.ambient.X467","0",NA,NA,NA,NA
+"EG","X207",27,"","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.X207","0",1,0.07683333333,1,0.004
+"SP","X426",26,"check number","3.E.ambient",0,1,6,0,100,600,27.7777777777778,450,0,0,"ambient","E",3,"3.E.ambient.X426","0",NA,NA,1,0.004
+"SP","SP1",25,"","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.SP1","0",NA,NA,0.333333333333333,0.00333333333333333
+"SP","SP3",17,"","5.C.fungicide",0,15,50,7,22.2222222222222,186.666666666667,0,240,0,0,"fungicide","C",5,"5.C.fungicide.SP3","0",NA,NA,1,0.001
+"SP","SP3",23,"","8.C.ambient",9,2,0,700,2,240,0,0,0,0,"ambient","C",8,"8.C.ambient.SP3","0",NA,NA,1,0.004
+"SP","SP1",18,"","6.C.ambient",8,1,1000,1,25,125,0,0,0,0,"ambient","C",6,"6.C.ambient.SP1","0",NA,NA,NA,NA
+"SP","SP1",23,"","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.SP1","0",NA,NA,1,0.0233333333333333
+"SP","SP3",14,"","1.C.fungicide",1,3,0,4,124.444444444444,80,0,320,0,0,"fungicide","C",1,"1.C.fungicide.SP3","0",NA,NA,1,0.001
+"SP","X427",7,"","6.E.ambient",1,1,800,66.6666666666667,266.666666666667,100,0,0,0,160,"ambient","E",6,"6.E.ambient.X427","0",NA,NA,NA,NA
+"SP","SP2",74,"","1.C.fungicide",1,3,0,4,124.444444444444,80,0,320,0,0,"fungicide","C",1,"1.C.fungicide.SP2","0",NA,NA,0.333333333333333,0.000333333333333333
+"AB","AB3",3,"AB","6.E.inoculation",3,2,240,0,350,160,0,0,0,400,"inoculation","E",6,"6.E.inoculation.AB3","0",NA,NA,NA,NA
+"SP","X214",281,"","1.A.fungicide",0,12,225,0,6,166.666666666667,26.6666666666667,150,0,0,"fungicide","A",1,"1.A.fungicide.X214","0",0.666666667,0.01183333333,0.333333333333333,0.000333333333333333
+"SP","X212",137,"","1.A.fungicide",0,12,225,0,6,166.666666666667,26.6666666666667,150,0,0,"fungicide","A",1,"1.A.fungicide.X212","0",0.666666667,0.017,0,0
+"SP","X213",153,"","1.A.fungicide",0,12,225,0,6,166.666666666667,26.6666666666667,150,0,0,"fungicide","A",1,"1.A.fungicide.X213","0",0.833333333,0.03,0.333333333333333,0.000333333333333333
+"SP","X218",177,"","1.A.ambient",0,20,4,2,12,200,5,2,0,0,"ambient","A",1,"1.A.ambient.X218","0",1,0.02033333333,1,0.01
+"SP","X484",60,"","8.A.ambient",6,8,100,1,2,400,0,0,0,0,"ambient","A",8,"8.A.ambient.X484","0",NA,NA,0.333333333333333,0.000333333333333333
+"SP","X485",138,"","8.A.ambient",6,8,100,1,2,400,0,0,0,0,"ambient","A",8,"8.A.ambient.X485","0",NA,NA,0.333333333333333,0.000333333333333333
+"SP","X483",27,"","8.A.ambient",6,8,100,1,2,400,0,0,0,0,"ambient","A",8,"8.A.ambient.X483","0",NA,NA,0.666666666666667,0.02
+"SP","SP2",108,"","8.A.inoculation",1,9,16.6666666666667,0,1,200,0,0,60,0,"inoculation","A",8,"8.A.inoculation.SP2","0",NA,NA,0.333333333333333,0.00333333333333333
+"SP","SP3",150,"","8.C.fungicide",1,16,0,0,2,120,0,0,0,0,"fungicide","C",8,"8.C.fungicide.SP3","0",NA,NA,0.333333333333333,0.00333333333333333
+"SP","SP3",34,"","8.A.ambient",6,8,100,1,2,400,0,0,0,0,"ambient","A",8,"8.A.ambient.SP3","0",NA,NA,NA,NA
+"AB","AB2",4,"AB","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.AB2","0",NA,NA,0.5,5e-04
+"AB","AB1",3,"NO SEEDS","3.A.inoculation",0,11,6,0,1,20,0,0,0,0,"inoculation","A",3,"3.A.inoculation.AB1","0",NA,NA,NA,NA
+"SP","SP2",95,"","8.C.ambient",9,2,0,700,2,240,0,0,0,0,"ambient","C",8,"8.C.ambient.SP2","0",NA,NA,1,0.001
+"SP","SP1",32,"","8.C.fungicide",1,16,0,0,2,120,0,0,0,0,"fungicide","C",8,"8.C.fungicide.SP1","0",NA,NA,0.333333333333333,0.000333333333333333
+"SP","SP1",26,"","6.A.ambient",11,5,320,1,71.1111111111111,600,1,0,0,0,"ambient","A",6,"6.A.ambient.SP1","0",NA,NA,1,0.0366666666666667
+"EG","X208",145,"","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.X208","0",1,0.05166666667,1,0.007
+"SP","SP2",8,"","6.C.ambient",8,1,1000,1,25,125,0,0,0,0,"ambient","C",6,"6.C.ambient.SP2","0",NA,NA,0.333333333333333,0.000333333333333333
+"SP","X436",13,"","6.E.ambient",1,1,800,66.6666666666667,266.666666666667,100,0,0,0,160,"ambient","E",6,"6.E.ambient.X436","0",NA,NA,1,0.007
+"SP","SP3",103,"","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.SP3","0",NA,NA,1,0.004
+"AB","AB2",7,"NO SEEDS","6.E.fungicide",4,2,150,0,250,700,0,0,0,350,"fungicide","E",6,"6.E.fungicide.AB2","0",NA,NA,NA,NA
+"AB","AB1",4,"AB","6.E.inoculation",3,2,240,0,350,160,0,0,0,400,"inoculation","E",6,"6.E.inoculation.AB1","0",NA,NA,0.666666666666667,0.00366666666666667
+"AB","AB2",2,"NO SEEDS","3.A.inoculation",0,11,6,0,1,20,0,0,0,0,"inoculation","A",3,"3.A.inoculation.AB2","0",NA,NA,NA,NA
+"AB","AB1",4,"AB","1.C.fungicide",1,3,0,4,124.444444444444,80,0,320,0,0,"fungicide","C",1,"1.C.fungicide.AB1","0",NA,NA,0,0
+"AB","AB1",3,"NO SEEDS","3.C.ambient",1,7,0,0,200,225,9,300,0,0,"ambient","C",3,"3.C.ambient.AB1","0",NA,NA,NA,NA
+"AB","X428",4,"NO SEEDS","6.E.ambient",1,1,800,66.6666666666667,266.666666666667,100,0,0,0,160,"ambient","E",6,"6.E.ambient.X428","0",NA,NA,NA,NA
+"AB","AB1",7,"AB","6.C.inoculation",4,4,1000,0,150,100,0,0,0,200,"inoculation","C",6,"6.C.inoculation.AB1","0",NA,NA,0.5,5e-04
+"SP","X437+X438",124,"","6.E.ambient",1,1,800,66.6666666666667,266.666666666667,100,0,0,0,160,"ambient","E",6,"6.E.ambient.X437+X438","0",NA,NA,NA,NA
+"SP","SP2",31,"","6.E.inoculation",3,2,240,0,350,160,0,0,0,400,"inoculation","E",6,"6.E.inoculation.SP2","0",NA,NA,1,0.004
+"AB","AB1",7,"AB","6.E.fungicide",4,2,150,0,250,700,0,0,0,350,"fungicide","E",6,"6.E.fungicide.AB1","0",NA,NA,NA,NA
+"SP","SP3",101,"","1.C.ambient",0,3,1,0,14,124.444444444444,0,300,0,0,"ambient","C",1,"1.C.ambient.SP3","0",NA,NA,1,0.0533333333333333
+"AB","AB1",6,"AB","6.E.ambient",1,1,800,66.6666666666667,266.666666666667,100,0,0,0,160,"ambient","E",6,"6.E.ambient.AB1","0",NA,NA,0.5,5e-04
+"AB","AB3",6,"AB","6.E.fungicide",4,2,150,0,250,700,0,0,0,350,"fungicide","E",6,"6.E.fungicide.AB3","0",NA,NA,0,0
+"SP","SP1",15,"","1.C.ambient",0,3,1,0,14,124.444444444444,0,300,0,0,"ambient","C",1,"1.C.ambient.SP1","0",NA,NA,1,0.007
+"AB","AB1",7,"AB","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.AB1","0",NA,NA,0.333333333333333,0.000333333333333333
+"SP","SP1",36,"","1.E.inoculation",0,0,1760,9,125,33.3333333333333,13.3333333333333,0,4,0,"inoculation","E",1,"1.E.inoculation.SP1","0",NA,NA,1,0.007
+"AB","AB3",10,"AB","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.AB3","0",NA,NA,0.666666666666667,0.00366666666666667
+"AB","AB3",2,"AB","1.C.inoculation",0,7,1,0,70,105,3,150,0,0,"inoculation","C",1,"1.C.inoculation.AB3","0",NA,NA,NA,NA
+"AB","X498",4,"NO SEEDS","1.A.ambient",0,20,4,2,12,200,5,2,0,0,"ambient","A",1,"1.A.ambient.X498","0",NA,NA,NA,NA
+"AB","AB1",5,"NO SEEDS","1.A.inoculation",0,12,0,0,9,266.666666666667,30,0,0,0,"inoculation","A",1,"1.A.inoculation.AB1","0",NA,NA,NA,NA
+"SP","SP2",43,"","4.A.fungicide",0,12,266.666666666667,4,133.333333333333,0,0,10,0,0,"fungicide","A",4,"4.A.fungicide.SP2","0",NA,NA,1,0.004
+"SP","SP1",41,"","3.A.fungicide",1,8,6,0,4,16,0,300,0,0,"fungicide","A",3,"3.A.fungicide.SP1","0",NA,NA,NA,NA
+"SP","X463",35,"","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.X463","0",NA,NA,0.333333333333333,0.000333333333333333
+"AB","AB3",3,"NO SEEDS","1.A.inoculation",0,12,0,0,9,266.666666666667,30,0,0,0,"inoculation","A",1,"1.A.inoculation.AB3","0",NA,NA,NA,NA
+"SP","SP3",107,"","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.SP3","0",NA,NA,1,0.0233333333333333
+"AB","AB2",4,"NO SEEDS","1.A.fungicide",0,12,225,0,6,166.666666666667,26.6666666666667,150,0,0,"fungicide","A",1,"1.A.fungicide.AB2","0",NA,NA,NA,NA
+"SP","SP1",21,"","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.SP1","0",NA,NA,1,0.004
+"AB","X409",42,"AB","3.A.ambient",1,9,5,2,23.3333333333333,80,0,0,0,0,"ambient","A",3,"3.A.ambient.X409","0",NA,NA,1,0.007
+"SP","SP2",52,"","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.SP2","0",NA,NA,1,0.007
+"SP","SP3",63,"","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.SP3","0",NA,NA,0.333333333333333,0.000333333333333333
+"AB","X396",7,"AB","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.X396","0",NA,NA,NA,NA
+"SP","SP1",30,"","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.SP1","0",NA,NA,NA,NA
+"SP","SP2",48,"","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.SP2","0",NA,NA,0.666666666666667,0.000666666666666667
+"AB","AB3",5,"AF","3.E.fungicide",1,1,0,0,210,180,11.1111111111111,450,0,0,"fungicide","E",3,"3.E.fungicide.AB3","0",NA,NA,NA,NA
+"AB","AB3",6,"AB","6.C.inoculation",4,4,1000,0,150,100,0,0,0,200,"inoculation","C",6,"6.C.inoculation.AB3","0",NA,NA,0,0
+"SP","SP3",120,"","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.SP3","0",NA,NA,1,0.0203333333333333
+"SP","X203",86,"","3.A.inoculation",0,11,6,0,1,20,0,0,0,0,"inoculation","A",3,"3.A.inoculation.X203","0",1,0.03833333333,1,0.0366666666666667
+"SP","SP1",56,"","1.A.inoculation",0,12,0,0,9,266.666666666667,30,0,0,0,"inoculation","A",1,"1.A.inoculation.SP1","0",NA,NA,1,0.01
+"SP","SP2",84,"","1.C.ambient",0,3,1,0,14,124.444444444444,0,300,0,0,"ambient","C",1,"1.C.ambient.SP2","0",NA,NA,1,0.004
+"SP","SP1",85,"","1.C.fungicide",1,3,0,4,124.444444444444,80,0,320,0,0,"fungicide","C",1,"1.C.fungicide.SP1","0",NA,NA,1,0.001
+"SP","SP2",34,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.SP2","0",NA,NA,0.666666666666667,0.00366666666666667
+"SP","X198",129,"","3.A.inoculation",0,11,6,0,1,20,0,0,0,0,"inoculation","A",3,"3.A.inoculation.X198","0",1,0.1018333333,1,0.001
+"AB","AB2",21,"AB","1.C.fungicide",1,3,0,4,124.444444444444,80,0,320,0,0,"fungicide","C",1,"1.C.fungicide.AB2","0",NA,NA,NA,NA
+"AB","AB2",51,"AF","1.C.ambient",0,3,1,0,14,124.444444444444,0,300,0,0,"ambient","C",1,"1.C.ambient.AB2","0",NA,NA,NA,NA
+"AB","AB3",24,"AB","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.AB3","0",NA,NA,0.5,0.025
+"AB","AB3",14,"AB","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.AB3","0",NA,NA,1,0.001
+"AB","AB1",35,"AB","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.AB1","0",NA,NA,0.333333333333333,0.0166666666666667
+"AB","AB1",16,"AB","5.E.fungicide",0,0,50,16.6666666666667,240,500,8,1,0,0,"fungicide","E",5,"5.E.fungicide.AB1","0",NA,NA,NA,NA
+"AB","AB2",7,"AB","5.E.fungicide",0,0,50,16.6666666666667,240,500,8,1,0,0,"fungicide","E",5,"5.E.fungicide.AB2","0",NA,NA,0.333333333333333,0.000333333333333333
+"AB","AB3",12,"AF","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.AB3","0",NA,NA,NA,NA
+"AB","X387",14,"AF","5.A.ambient",22,0,0,53.3333333333333,6,53.3333333333333,0,0,0,0,"ambient","A",5,"5.A.ambient.X387","0",NA,NA,NA,NA
+"AB","AB1",6,"NO SEEDS","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.AB1","0",NA,NA,NA,NA
+"AB","X388",11,"AF","5.A.ambient",22,0,0,53.3333333333333,6,53.3333333333333,0,0,0,0,"ambient","A",5,"5.A.ambient.X388","0",NA,NA,NA,NA
+"AB","X389",21,"AF","5.A.ambient",22,0,0,53.3333333333333,6,53.3333333333333,0,0,0,0,"ambient","A",5,"5.A.ambient.X389","0",NA,NA,NA,NA
+"AB","AB3",9,"AF","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.AB3","0",NA,NA,NA,NA
+"AB","AB1",14,"NO SEEDS","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.AB1","0",NA,NA,NA,NA
+"AB","AB1",14,"AF","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.AB1","0",NA,NA,NA,NA
+"AB","AB2",7,"AF","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.AB2","0",NA,NA,NA,NA
+"AB","AB2",25,"AB","3.E.inoculation",0,1,8,0,116.666666666667,83.3333333333333,116.666666666667,360,0,0,"inoculation","E",3,"3.E.inoculation.AB2","0",NA,NA,0.333333333333333,0.000333333333333333
+"AB","AB1",19,"AF","3.E.inoculation",0,1,8,0,116.666666666667,83.3333333333333,116.666666666667,360,0,0,"inoculation","E",3,"3.E.inoculation.AB1","1",NA,NA,0.5,5e-04
+"AB","Ab1",13,"AF","3.C.fungicide",0,0,0,4,293.333333333333,66.6666666666667,60,100,0,0,"fungicide","C",3,"3.C.fungicide.Ab1","0",NA,NA,NA,NA
+"AB","X418",10,"NO SEEDS","3.E.ambient",0,1,6,0,100,600,27.7777777777778,450,0,0,"ambient","E",3,"3.E.ambient.X418","0",NA,NA,NA,NA
+"AB","AB3",16,"AF","3.C.fungicide",0,0,0,4,293.333333333333,66.6666666666667,60,100,0,0,"fungicide","C",3,"3.C.fungicide.AB3","0",NA,NA,0.5,5e-04
+"AB","AB2",17,"AB","1.A.ambient",0,20,4,2,12,200,5,2,0,0,"ambient","A",1,"1.A.ambient.AB2","0",NA,NA,1,0.001
+"AB","AB1",16,"AF","1.C.inoculation",0,7,1,0,70,105,3,150,0,0,"inoculation","C",1,"1.C.inoculation.AB1","0",NA,NA,NA,NA
+"AB","AB2",10,"AB","1.C.inoculation",0,7,1,0,70,105,3,150,0,0,"inoculation","C",1,"1.C.inoculation.AB2","0",NA,NA,0,0
+"AB","AB2",8,"AB","8.E.ambient",1,1,1,22.2222222222222,66.6666666666667,360,0,0,0,0,"ambient","E",8,"8.E.ambient.AB2","0",NA,NA,1,0.01
+"AB","AB1",20,"AB","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.AB1","0",NA,NA,0.5,5e-04
+"AB","AB1",17,"AF","8.A.inoculation",1,9,16.6666666666667,0,1,200,0,0,60,0,"inoculation","A",8,"8.A.inoculation.AB1","0",NA,NA,NA,NA
+"AB","AB3",22,"AB","8.E.fungicide",0,0,3,27.7777777777778,60,240,0,0,75,0,"fungicide","E",8,"8.E.fungicide.AB3","0",NA,NA,1,0.01
+"AB","AB1",13,"AB","1.E.inoculation",0,0,1760,9,125,33.3333333333333,13.3333333333333,0,4,0,"inoculation","E",1,"1.E.inoculation.AB1","0",NA,NA,1,0.004
+"AB","AB3",6,"NO SEEDS","1.C.ambient",0,3,1,0,14,124.444444444444,0,300,0,0,"ambient","C",1,"1.C.ambient.AB3","0",NA,NA,NA,NA
+"AB","AB3",14,"AB","1.C.fungicide",1,3,0,4,124.444444444444,80,0,320,0,0,"fungicide","C",1,"1.C.fungicide.AB3","0",NA,NA,NA,NA
+"AB","AB1",5,"NO SEEDS","5.C.fungicide",0,15,50,7,22.2222222222222,186.666666666667,0,240,0,0,"fungicide","C",5,"5.C.fungicide.AB1","0",NA,NA,NA,NA
+"AB","AB3",4,"NO SEEDS","3.A.fungicide",1,8,6,0,4,16,0,300,0,0,"fungicide","A",3,"3.A.fungicide.AB3","0",NA,NA,NA,NA
+"AB","AB3",10,"AF","5.C.fungicide",0,15,50,7,22.2222222222222,186.666666666667,0,240,0,0,"fungicide","C",5,"5.C.fungicide.AB3","0",NA,NA,NA,NA
+"AB","AB2",5,"NO SEEDS","5.E.inoculation",1,0,1800,100,150,200,3,0,0,0,"inoculation","E",5,"5.E.inoculation.AB2","0",NA,NA,NA,NA
+"AB","X505",5,"NO SEEDS","1.E.ambient",1,1,100,0,150,70,66.6666666666667,480,0,0,"ambient","E",1,"1.E.ambient.X505","0",NA,NA,NA,NA
+"AB","X507",3,"NO SEEDS","1.E.ambient",1,1,100,0,150,70,66.6666666666667,480,0,0,"ambient","E",1,"1.E.ambient.X507","0",NA,NA,NA,NA
+"AB","AB3",5,"AB","3.A.inoculation",0,11,6,0,1,20,0,0,0,0,"inoculation","A",3,"3.A.inoculation.AB3","0",NA,NA,NA,NA
+"AB","AB2",8,"AB","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.AB2","0",NA,NA,NA,NA
+"AB","AB2",4,"NO SEEDS","3.E.fungicide",1,1,0,0,210,180,11.1111111111111,450,0,0,"fungicide","E",3,"3.E.fungicide.AB2","0",NA,NA,NA,NA
+"AB","Ab2",5,"NO SEEDS","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.Ab2","0",NA,NA,NA,NA
+"AB","AB1",4,"NO SEEDS","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.AB1","0",NA,NA,1,0.001
+"AB","AB3",3,"AB","3.C.ambient",1,7,0,0,200,225,9,300,0,0,"ambient","C",3,"3.C.ambient.AB3","0",NA,NA,NA,NA
+"AB","AB3",2,"NO SEEDS","5.E.inoculation",1,0,1800,100,150,200,3,0,0,0,"inoculation","E",5,"5.E.inoculation.AB3","0",NA,NA,0,0
+"AB","AB1",10,"AF","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.AB1","0",NA,NA,NA,NA
+"AB","AB2",3,"AB","4.C.fungicide",0,10,40,0,133.333333333333,0,250,1,0,0,"fungicide","C",4,"4.C.fungicide.AB2","0",NA,NA,1,0.001
+"AB","AB1",6,"NO SEEDS","3.E.fungicide",1,1,0,0,210,180,11.1111111111111,450,0,0,"fungicide","E",3,"3.E.fungicide.AB1","0",NA,NA,NA,NA
+"AB","AB1",9,"AB","5.E.inoculation",1,0,1800,100,150,200,3,0,0,0,"inoculation","E",5,"5.E.inoculation.AB1","0",NA,NA,NA,NA
+"AB","AB3",7,"NO SEEDS","5.C.inoculation",0,5,3,0,27.7777777777778,720,0,0,0,0,"inoculation","C",5,"5.C.inoculation.AB3","0",NA,NA,1,0.001
+"AB","X404",6,"AB","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.X404","0",NA,NA,NA,NA
+"AB","AB1",4,"AB","3.A.fungicide",1,8,6,0,4,16,0,300,0,0,"fungicide","A",3,"3.A.fungicide.AB1","0",NA,NA,NA,NA
+"AB","AB2",5,"AB","1.A.inoculation",0,12,0,0,9,266.666666666667,30,0,0,0,"inoculation","A",1,"1.A.inoculation.AB2","0",NA,NA,NA,NA
+"AB","AB1",6,"AF","4.A.ambient",0,12,0,0,30,15,4,1,0,0,"ambient","A",4,"4.A.ambient.AB1","0",NA,NA,NA,NA
+"AB","AB3",7,"AB","6.A.fungicide",6,8,300,350,100,10,4,0,0,0,"fungicide","A",6,"6.A.fungicide.AB3","0",NA,NA,NA,NA
+"AB","AB3",4,"AB","4.C.fungicide",0,10,40,0,133.333333333333,0,250,1,0,0,"fungicide","C",4,"4.C.fungicide.AB3","0",NA,NA,0,0
+"AB","AB3",9,"AB","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.AB3","0",NA,NA,NA,NA
+"AB","AB2",2,"AF","5.A.fungicide",12,3,0,11.1111111111111,11.1111111111111,62.2222222222222,0,0,3,0,"fungicide","A",5,"5.A.fungicide.AB2","0",NA,NA,NA,NA
+"AB","AB2",4,"AB","3.C.ambient",1,7,0,0,200,225,9,300,0,0,"ambient","C",3,"3.C.ambient.AB2","0",NA,NA,NA,NA
+"AB","AB1",6,"AF","1.A.fungicide",0,12,225,0,6,166.666666666667,26.6666666666667,150,0,0,"fungicide","A",1,"1.A.fungicide.AB1","0",NA,NA,NA,NA
+"AB","AB1",3,"NO SEEDS","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.AB1","0",NA,NA,NA,NA
+"AB","AB2",4,"NO SEEDS","4.C.ambient",1,9,400,40,18,200,75,0,0,0,"ambient","C",4,"4.C.ambient.AB2","0",NA,NA,NA,NA
+"AB","AB1",5,"NO SEEDS","1.C.ambient",0,3,1,0,14,124.444444444444,0,300,0,0,"ambient","C",1,"1.C.ambient.AB1","0",NA,NA,NA,NA
+"AB","AB3",9,"AB","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.AB3","0",NA,NA,1,0.01
+"AB","AB3",4,"NO SEEDS","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.AB3","0",NA,NA,NA,NA
+"AB","AB2",6,"NO SEEDS","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.AB2","0",NA,NA,NA,NA
+"AB","AB1",10,"AF","4.C.ambient",1,9,400,40,18,200,75,0,0,0,"ambient","C",4,"4.C.ambient.AB1","0",NA,NA,NA,NA
+"AB","AB1",7,"AF","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.AB1","0",NA,NA,NA,NA
+"AB","AB2",7,"AF","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.AB2","0",NA,NA,NA,NA
+"AB","AB2",4,"NO SEEDS","4.A.ambient",0,12,0,0,30,15,4,1,0,0,"ambient","A",4,"4.A.ambient.AB2","0",NA,NA,NA,NA
+"AB","AB2",15,"AB","8.E.fungicide",0,0,3,27.7777777777778,60,240,0,0,75,0,"fungicide","E",8,"8.E.fungicide.AB2","0",NA,NA,0.333333333333333,0.000333333333333333
+"AB","AB2",9,"AB","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.AB2","0",NA,NA,0,0
+"AB","AB1",11,"AB","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.AB1","0",NA,NA,NA,NA
+"AB","AB1",4,"AB","6.A.ambient",11,5,320,1,71.1111111111111,600,1,0,0,0,"ambient","A",6,"6.A.ambient.AB1","0",NA,NA,0.5,5e-04
+"AB","AB1",3,"AB","8.E.fungicide",0,0,3,27.7777777777778,60,240,0,0,75,0,"fungicide","E",8,"8.E.fungicide.AB1","0",NA,NA,NA,NA
+"AB","X441",13,"AB","6.A.ambient",11,5,320,1,71.1111111111111,600,1,0,0,0,"ambient","A",6,"6.A.ambient.X441","0",NA,NA,0,0
+"AB","AB2",4,"AB","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.AB2","0",NA,NA,1,0.001
+"AB","AB2",9,"AB","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.AB2","0",NA,NA,0,0
+"AB","AB1",5,"AF","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.AB1","0",NA,NA,NA,NA
+"AB","AB2",3,"NO SEEDS","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.AB2","0",NA,NA,NA,NA
+"AB","AB2",8,"AB","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.AB2","0",NA,NA,1,0.01
+"AB","AB2",4,"AB","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.AB2","0",NA,NA,NA,NA
+"AB","AB1",2,"AB","8.E.ambient",1,1,1,22.2222222222222,66.6666666666667,360,0,0,0,0,"ambient","E",8,"8.E.ambient.AB1","0",NA,NA,0.5,5e-04
+"AB","AB3",4,"NO SEEDS","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.AB3","0",NA,NA,NA,NA
+"AB","AB2",4,"NO SEEDS","8.C.fungicide",1,16,0,0,2,120,0,0,0,0,"fungicide","C",8,"8.C.fungicide.AB2","0",NA,NA,NA,NA
+"AB","AB2",31,"AB","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.AB2","0",NA,NA,0.666666666666667,0.000666666666666667
+"AB","X439",5,"NO SEEDS","6.A.ambient",11,5,320,1,71.1111111111111,600,1,0,0,0,"ambient","A",6,"6.A.ambient.X439","0",NA,NA,NA,NA
+"AB","AB1",13,"AB","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.AB1","0",NA,NA,1,0.01
+"AB","AB1",4,"AB","6.A.fungicide",6,8,300,350,100,10,4,0,0,0,"fungicide","A",6,"6.A.fungicide.AB1","0",NA,NA,NA,NA
+"AB","X454",4,"AF","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.X454","0",NA,NA,NA,NA
+"AB","AB1",5,"NO SEEDS","6.C.ambient",8,1,1000,1,25,125,0,0,0,0,"ambient","C",6,"6.C.ambient.AB1","0",NA,NA,NA,NA
+"AB","AB2",5,"AF","3.A.fungicide",1,8,6,0,4,16,0,300,0,0,"fungicide","A",3,"3.A.fungicide.AB2","0",NA,NA,NA,NA
+"AB","AB2",5,"NO NEEDS","3.C.inoculation",0,7,0,0,53.3333333333333,40,23.3333333333333,720,0,0,"inoculation","C",3,"3.C.inoculation.AB2","0",NA,NA,NA,NA
+"AB","AB1",10,"AB","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.AB1","0",NA,NA,0.333333333333333,0.000333333333333333
+"AB","AB3",3,"AB","8.A.fungicide",2,6,2250,100,8,375,0,0,0,0,"fungicide","A",8,"8.A.fungicide.AB3","0",NA,NA,NA,NA
+"AB","AB2",9,"AF","8.A.inoculation",1,9,16.6666666666667,0,1,200,0,0,60,0,"inoculation","A",8,"8.A.inoculation.AB2","0",NA,NA,NA,NA
+"AB","AB3",6,"AB","1.E.inoculation",0,0,1760,9,125,33.3333333333333,13.3333333333333,0,4,0,"inoculation","E",1,"1.E.inoculation.AB3","0",NA,NA,0.333333333333333,0.000333333333333333
+"AB","AB1",4,"NO SEEDS","4.C.fungicide",0,10,40,0,133.333333333333,0,250,1,0,0,"fungicide","C",4,"4.C.fungicide.AB1","0",NA,NA,NA,NA
+"AB","X487",3,"NO SEEDS","8.E.ambient",1,1,1,22.2222222222222,66.6666666666667,360,0,0,0,0,"ambient","E",8,"8.E.ambient.X487","0",NA,NA,NA,NA
+"AB","AB2",10,"AF","8.C.ambient",9,2,0,700,2,240,0,0,0,0,"ambient","C",8,"8.C.ambient.AB2","0",NA,NA,NA,NA
+"AB","AB3",9,"AB","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.AB3","0",NA,NA,1,0.05
+"AB","AB1",4,"AB","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.AB1","0",NA,NA,NA,NA
+"AB","AB2",5,"AB","6.C.inoculation",4,4,1000,0,150,100,0,0,0,200,"inoculation","C",6,"6.C.inoculation.AB2","0",NA,NA,0,0
+"AB","AB3",3,"AB","3.E.inoculation",0,1,8,0,116.666666666667,83.3333333333333,116.666666666667,360,0,0,"inoculation","E",3,"3.E.inoculation.AB3","0",NA,NA,1,0.001
+"AB","AB1",6,"AB","1.E.ambient",1,1,100,0,150,70,66.6666666666667,480,0,0,"ambient","E",1,"1.E.ambient.AB1","0",NA,NA,1,0.0055
+"AB","AB2",3,"NO SEEDS","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.AB2","0",NA,NA,NA,NA
+"AB","AB3",7,"AB","6.C.ambient",8,1,1000,1,25,125,0,0,0,0,"ambient","C",6,"6.C.ambient.AB3","0",NA,NA,0.333333333333333,0.00333333333333333
+"AB","X408",10,"AF","3.A.ambient",1,9,5,2,23.3333333333333,80,0,0,0,0,"ambient","A",3,"3.A.ambient.X408","0",NA,NA,NA,NA
+"AB","AB1",6,"NO SEEDS","3.C.inoculation",0,7,0,0,53.3333333333333,40,23.3333333333333,720,0,0,"inoculation","C",3,"3.C.inoculation.AB1","0",NA,NA,NA,NA
+"AB","AB3",3,"NO SEEDS","8.A.inoculation",1,9,16.6666666666667,0,1,200,0,0,60,0,"inoculation","A",8,"8.A.inoculation.AB3","0",NA,NA,NA,NA
+"AB","AB3",4,"AF","3.C.inoculation",0,7,0,0,53.3333333333333,40,23.3333333333333,720,0,0,"inoculation","C",3,"3.C.inoculation.AB3","0",NA,NA,NA,NA
+"AB","AB2",3,"AB","6.C.ambient",8,1,1000,1,25,125,0,0,0,0,"ambient","C",6,"6.C.ambient.AB2","0",NA,NA,1,0.001
+"AB","AB3",8,"AB","8.C.fungicide",1,16,0,0,2,120,0,0,0,0,"fungicide","C",8,"8.C.fungicide.AB3","0",NA,NA,NA,NA
+"AB","AB1",2,"NO SEEDS","1.A.ambient",0,20,4,2,12,200,5,2,0,0,"ambient","A",1,"1.A.ambient.AB1","0",NA,NA,NA,NA
+"AB","AB2",13,"AB","6.E.inoculation",3,2,240,0,350,160,0,0,0,400,"inoculation","E",6,"6.E.inoculation.AB2","0",NA,NA,0.5,0.005
+"AB","AB2",4,"AB","6.A.fungicide",6,8,300,350,100,10,4,0,0,0,"fungicide","A",6,"6.A.fungicide.AB2","0",NA,NA,NA,NA
+"AB","AB1",2,"AB","8.C.fungicide",1,16,0,0,2,120,0,0,0,0,"fungicide","C",8,"8.C.fungicide.AB1","0",NA,NA,NA,NA
+"AB","AB3",3,"NO SEED","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.AB3","0",NA,NA,NA,NA
+"AB","AB1",3,"NO SEED","8.C.ambient",9,2,0,700,2,240,0,0,0,0,"ambient","C",8,"8.C.ambient.AB1","0",NA,NA,NA,NA
+"AB","AB3",3,"AB","5.E.fungicide",0,0,50,16.6666666666667,240,500,8,1,0,0,"fungicide","E",5,"5.E.fungicide.AB3","0",NA,NA,NA,NA
+"AB","X419",3,"NO SEED","3.E.ambient",0,1,6,0,100,600,27.7777777777778,450,0,0,"ambient","E",3,"3.E.ambient.X419","0",NA,NA,NA,NA
+"AB","X420",4,"NO SEED; CHECK PLANT NUMBER","3.E.ambient",0,1,6,0,100,600,27.7777777777778,450,0,0,"ambient","E",3,"3.E.ambient.X420","0",NA,NA,NA,NA
+"AB","X407",5,"NO SEED","3.A.ambient",1,9,5,2,23.3333333333333,80,0,0,0,0,"ambient","A",3,"3.A.ambient.X407","0",NA,NA,NA,NA
+"AB","X398",13,"NO SEED","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.X398","0",NA,NA,NA,NA
+"AB","X397",4,"NO SEED","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.X397","0",NA,NA,NA,NA
+"AB","AB2",2,"AB","3.C.fungicide",0,0,0,4,293.333333333333,66.6666666666667,60,100,0,0,"fungicide","C",3,"3.C.fungicide.AB2","0",NA,NA,0.5,5e-04
+"AB","AB3",7,"AF","4.C.ambient",1,9,400,40,18,200,75,0,0,0,"ambient","C",4,"4.C.ambient.AB3","0",NA,NA,NA,NA
+"AB","AB3",2,"AB","1.A.fungicide",0,12,225,0,6,166.666666666667,26.6666666666667,150,0,0,"fungicide","A",1,"1.A.fungicide.AB3","0",NA,NA,NA,NA
+"SP","SP3",321,"","6.C.ambient",8,1,1000,1,25,125,0,0,0,0,"ambient","C",6,"6.C.ambient.SP3","0",NA,NA,0.666666666666667,0.0366666666666667
+"SP","X206",89,"","6.A.fungicide",6,8,300,350,100,10,4,0,0,0,"fungicide","A",6,"6.A.fungicide.X206","0",0.833333333,0.00683333333,1,0.004
+"SP","SP2",318,"","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.SP2","0",NA,NA,1,0.004
+"SP","SP3",207,"","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.SP3","0",NA,NA,1,0.0336666666666667
+"SP","SP1",72,"","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.SP1","0",NA,NA,1,0.0203333333333333
+"SP","SP2",204,"","6.C.fungicide",7,5,2400,0,186.666666666667,250,0,0,0,750,"fungicide","C",6,"6.C.fungicide.SP2","0",NA,NA,1,0.001
+"SP","SP1",383,"","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.SP1","0",NA,NA,1,0.0233333333333333
+"SP","SP1",519,"","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.SP1","0",NA,NA,1,0.004
+"SP","SP1",327,"","6.A.inoculation",4,8,300,0,58.3333333333333,250,0,75,0,0,"inoculation","A",6,"6.A.inoculation.SP1","0",NA,NA,1,0.0366666666666667
+"SP","SP2",261,"","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.SP2","0",NA,NA,1,0.0233333333333333
+"SP","SP2",528,"","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.SP2","0",NA,NA,1,0.04
+"SP","SP3",185,"","4.C.inoculation",1,8,4,0,175,60,280,0,0,0,"inoculation","C",4,"4.C.inoculation.SP3","0",NA,NA,1,0.007
+"SP","SP083",2144,"","4.E.ambient",0,3,240,83.3333333333333,26,0,450,0,0,0,"ambient","E",4,"4.E.ambient.SP083","0",NA,NA,NA,NA
+"SP","SP1",518,"","4.E.fungicide",0,4,373.333333333333,175,15,18,240,0,0,0,"fungicide","E",4,"4.E.fungicide.SP1","0",NA,NA,1,0.01
+"SP","X216",310,"","4.E.inoculation",0,3,960,44.4444444444444,35.5555555555556,12,450,0,0,0,"inoculation","E",4,"4.E.inoculation.X216","0",1,0.0025,NA,NA
+"SP","SP3",225,"","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.SP3","0",NA,NA,1,0.007
+"SP","X196",83,"","3.A.fungicide",1,8,6,0,4,16,0,300,0,0,"fungicide","A",3,"3.A.fungicide.X196","0",0.666666667,0.01033333333,0,0
+"SP","SP2",223,"","8.C.inoculation",8,4,1,100,3,5,0,0,0,0,"inoculation","C",8,"8.C.inoculation.SP2","0",NA,NA,1,0.0173333333333333
+"SP","X201",75,"","3.A.ambient",1,9,5,2,23.3333333333333,80,0,0,0,0,"ambient","A",3,"3.A.ambient.X201","0",0.833333333,0.00233333333,1,0.001
+"SP","X217",546,"","1.A.inoculation",0,12,0,0,9,266.666666666667,30,0,0,0,"inoculation","A",1,"1.A.inoculation.X217","0",1,0.0055,1,0.0366666666666667
+"SP","X200",116,"","3.A.ambient",1,9,5,2,23.3333333333333,80,0,0,0,0,"ambient","A",3,"3.A.ambient.X200","0",0.833333333,0.02016666667,1,0.0366666666666667
+"SP","X197",264,"","3.A.fungicide",1,8,6,0,4,16,0,300,0,0,"fungicide","A",3,"3.A.fungicide.X197","0",0.833333333,0.012,0.666666666666667,0.00666666666666667
+"SP","SP1",406,"","5.C.ambient",8,1,125,2,10,900,6.66666666666667,0,0,0,"ambient","C",5,"5.C.ambient.SP1","0",NA,NA,1,0.004
+"SP","SP3",160,"","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.SP3","0",NA,NA,1,0.0203333333333333
+"SP","SP",155,"","5.A.inoculation",6,12,4,3,7,83.3333333333333,4,0,0,0,"inoculation","A",5,"5.A.inoculation.SP","0",NA,NA,NA,NA
+"SP","X202",236,"","3.A.inoculation",0,11,6,0,1,20,0,0,0,0,"inoculation","A",3,"3.A.inoculation.X202","0",1,0.04666666667,1,0.0203333333333333
+"EG","X503",0,"","1.A.ambient",0,20,4,2,12,200,5,2,0,0,"ambient","A",1,"1.A.ambient.X503","0",NA,NA,1,0.004
+"EG","EG1",0,"","1.A.inoculation",0,12,0,0,9,266.666666666667,30,0,0,0,"inoculation","A",1,"1.A.inoculation.EG1","0",NA,NA,1,0.001
+"EG","EG1",0,"","1.C.ambient",0,3,1,0,14,124.444444444444,0,300,0,0,"ambient","C",1,"1.C.ambient.EG1","0",NA,NA,0.666666666666667,0.000666666666666667
+"SP","X508",0,"","1.E.ambient",1,1,100,0,150,70,66.6666666666667,480,0,0,"ambient","E",1,"1.E.ambient.X508","0",NA,NA,1,0.004
+"EG","EG1",0,"","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.EG1","0",NA,NA,0,0
+"SP","SP1",0,"","1.E.fungicide",0,0,0,2,360,41.6666666666667,11.1111111111111,0,0,0,"fungicide","E",1,"1.E.fungicide.SP1","0",NA,NA,0,0
+"EG","EG1",0,"","1.E.inoculation",0,0,1760,9,125,33.3333333333333,13.3333333333333,0,4,0,"inoculation","E",1,"1.E.inoculation.EG1","0",NA,NA,1,0.0203333333333333
+"SP","SP1",0,"","3.C.fungicide",0,0,0,4,293.333333333333,66.6666666666667,60,100,0,0,"fungicide","C",3,"3.C.fungicide.SP1","0",NA,NA,1,0.001
+"EG","EG1",0,"","3.E.fungicide",1,1,0,0,210,180,11.1111111111111,450,0,0,"fungicide","E",3,"3.E.fungicide.EG1","0",NA,NA,0,0
+"EG","EG1",0,"","4.A.fungicide",0,12,266.666666666667,4,133.333333333333,0,0,10,0,0,"fungicide","A",4,"4.A.fungicide.EG1","0",NA,NA,0.666666666666667,0.00366666666666667
+"EG","EG1",0,"","4.C.fungicide",0,10,40,0,133.333333333333,0,250,1,0,0,"fungicide","C",4,"4.C.fungicide.EG1","0",NA,NA,0,0
+"SP","X405",0,"","5.E.ambient",0,0,133.333333333333,8,53.3333333333333,66.6666666666667,15,0,0,0,"ambient","E",5,"5.E.ambient.X405","0",NA,NA,0.666666666666667,0.000666666666666667
+"SP","SP1",0,"","6.E.fungicide",4,2,150,0,250,700,0,0,0,350,"fungicide","E",6,"6.E.fungicide.SP1","0",NA,NA,0.333333333333333,0.00333333333333333
+"EG","X495",0,"","8.E.ambient",1,1,1,22.2222222222222,66.6666666666667,360,0,0,0,0,"ambient","E",8,"8.E.ambient.X495","0",NA,NA,0.666666666666667,0.00366666666666667
+"SP","SP1",0,"","8.E.fungicide",0,0,3,27.7777777777778,60,240,0,0,75,0,"fungicide","E",8,"8.E.fungicide.SP1","0",NA,NA,0.333333333333333,0.00333333333333333
+"SP","SP1",0,"","8.E.inoculation",3,0,0,2,100,200,0,0,0,0,"inoculation","E",8,"8.E.inoculation.SP1","0",NA,NA,0.666666666666667,0.00366666666666667

@@ -1,0 +1,55 @@
+Metadata for competition_plot_seeds_composition_damage.csv
+
+This was an experiment in which we manipulated plant composition and fungal exposure in 1-m^2 plots, and identified fungal damage and seed production on marked individuals. There are five focal species (listed under “Species”), and three fungal treatments (listed under “Treatment”). We were not able to achieve the density gradient we planned, so we recorded both the planned density treatment (under “Density” and “BG.spp”) and the actual density of common plant species (listed in the columns with plant species names). When we surveyed pathogen damage, we counted both the average percent leaf area damaged (“mean.dam”) and the proportion of leaves with any damage (“prop.dam”). We also performed a mini, preliminary damage survey on a subset of the individuals (“prop.dam.mini” and “mean.dam.mini”).
+
+Column headers:
+
+Species: Species identity of the individual (AB = Avena barbata, BD = Bromus diandrus, BH = Bromus hordeaceus, EG = Elymus glaucus adult bunchgrass, EG SEED = Elymus glaucus seedling, SP = Stipa pulchra adult bunchgrass)
+
+Plant.ID: Unique identifier for each individual
+
+Seed.estimate: Number of seeds produced by the individual
+
+Notes: For Avena spp. we were sometimes unable to tell early on which species they were. The note in this column indicates whether the individual turned out to be Avena barbata (AB) or Avena fatua (AF).
+
+Plot: Number indicating which plot an individual was located in
+
+EG.adult: Number of Elymus glaucus adults in the plot
+
+EG.seed	: Number of Elymus glaucus seedlings in the plot
+
+SP.adult: Number of Stipa pulchra adults in the plot
+
+SP.seed	: Number of Stipa pulchra seedlings in the plot
+
+BH: Number of Bromus hordeacus plants in the plot
+
+BD: Number of Bromus diandrus plants in the plot
+
+Avena: Number of Avena spp. plants in the plot (we were unable to determine whether plants were Avena barbata or Avena fatua)
+
+FEMY: Number of Festuca myuros plants in the plot (a weed grass)
+
+BRADIS: Number of Brachypodium	 distachyon plants in the plot (a weed grass)
+
+Forb: Number of forbs (non-grass and non-nitrogen fixer weeds) in the plot
+
+Fabaceae: Number of nitrogen-fixing plants (weeds in the family Fabaceae) in the plot
+
+GAST: Number of Gastridium phleoides plants (a weed) in the plot
+
+Density: Planned competitor density in the plot
+
+BG.spp: Planned competitor species in the plot (BG stands for background)
+
+rust: binary indicator of whether or not a plant had rust fungus infection
+
+prop.dam.mini: proportion of leaves with pathogen damage from a mini damage survey of a few of the plants early in the season
+
+mean.dam.mini: mean percent of leaf area damaged from a mini damage survey of a few of the plants early in the season
+
+Treatment: fungal treatment - fungicide application, ambient (water controls), or fungal inoculation
+
+prop.dam: proportion of leaves with pathogen damage from the main damage survey of most of the plants
+
+mean.dam: mean percent of leaf area damaged from the main damage survey of most of the plants

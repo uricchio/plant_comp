@@ -1,0 +1,53 @@
+Metadata for transect_seeds_composition_damage.csv
+
+In this experiment, we marked six transects in different grassland sites. At each transect, we marked three triplets of plots ranging from a perennial dominated area (A) to a mixed-species area (C) to an annual dominated area (E). Each triplet contained individual 1-m^2 plot that received fungicide addition (fungicide), water controls (ambient) or fungal inoculum (inoculation). In each plot, we recorded the density of common plant species, then sampled marked individuals of each focal species for pathogen damage and seed production. 
+
+Column headers:
+
+Species: Species identity of the individual (AB = Avena barbata, BD = Bromus diandrus, BH = Bromus hordeaceus, EG = Elymus glaucus adult bunchgrass, SP = Stipa pulchra adult bunchgrass)
+
+Plant.ID: Identifier for each plant. These are NOT unique identifiers (some will be repeated across different plots, e.g., “EG1”). For unique individual plant identifiers, see “ind” below.
+
+Seed.Count: Number of seeds produced by the individual
+
+Notes: Field notes, mostly about the damage survey
+
+plotID: Number indicating which plot an individual was located in. Plots were organized into six unique transects (indicated by the first number in the string), each of which contained three triplets of plots (indicated by the letter in the string), and each triplet had a plot that received ambient (water control), fungicide, or inoculation with fungi (indicated in the last part of the string). Together, these codes indicate a unique plot identifier.
+
+EG.adult: Number of Elymus glaucus adults in the plot
+
+SP.adult: Number of Stipa pulchra adults in the plot
+
+BH: Number of Bromus hordeacus plants in the plot
+
+BD: Number of Bromus diandrus plants in the plot
+
+Avena: Number of Avena spp. plants in the plot (we were unable to determine whether plants were Avena barbata or Avena fatua)
+
+Forb: Number of forbs (non-grass and non-nitrogen fixer weeds) in the plot
+
+Fabaceae: Number of nitrogen-fixing plants (weeds in the family Fabaceae) in the plot
+
+BRADIS: Number of Brachypodium	 distachyon plants in the plot (a weed grass)
+
+FEMY: Number of Festuca myuros plants in the plot (a weed grass)
+
+POA: Number of unidentified grass individuals (family Poaceae)
+
+Treatment: fungal treatment - fungicide application, ambient (water controls), or fungal inoculation
+
+Plot: Identity of the plot triplet within each transect (A, C, or E). Transects were originally designed to span from perennial species dominance (A) to annual dominance (E).
+
+Transect: Transect number (there are six unique transects although they are not numbered continuously because a few of the original ones we made last year we did not use).
+
+ind: Unique individual plant identifier, which encodes the plot and individual identity of the plant.
+
+rust: binary indicator of whether or not a plant had rust fungus infection
+
+prop.dam.mini: proportion of leaves with pathogen damage from a mini damage survey of a few of the plants early in the season
+
+mean.dam.mini: mean percent of leaf area damaged from a mini damage survey of a few of the plants early in the season
+
+prop.dam: proportion of leaves with pathogen damage from the main damage survey of most of the plants
+
+mean.dam: mean percent of leaf area damaged from the main damage survey of most of the plants
